@@ -1,0 +1,44 @@
+{
+  "header": {
+    "menu": {
+      "main": "Головна",
+      "contacts": "Контакти",
+      "cart": "Корзина"
+    }
+  },
+  "buttons": {
+    "login": "Вхід",
+    "logout": "Вихід",
+    "buy":"Купити",
+    "edit":"Редагувати",
+    "delete":"Видалити",
+    "add":"Додати",
+    "addToCart": "В корзину",
+    "clear": "Очистити",
+    "back": "Повернутись"
+  },
+  "homePage":{
+    "headlines": {
+      "seller": "Продавець",
+      "brand": "Бренд",
+      "alphabeticalList": "Алфавітний вказівник",
+      "otherSellers": "Інші продавці",
+      "search": "Пошук"
+    }
+  },
+  "editPage": {
+    "titleEdit": "Редагувати товар",
+    "titleAdd": "Додати товар",
+    "input":{
+      "title":"Назва товару",
+      "price":"Ціна",
+      "image":"Шлях до зображення",
+      "seller":"Продавець",
+      "manufacturer": "Виробник"
+    }
+  },
+  "messages": {
+    "lodinPage": "Для використання всіх можливостей авторизуйтесь",
+    "pageNotFound": "Сторінку не знайдено"
+  }
+}

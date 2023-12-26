@@ -1,0 +1,44 @@
+{
+  "header": {
+    "menu": {
+    "main": "Main",
+    "contacts": "Contacts",
+    "cart": "Cart"
+    }
+  },
+  "buttons": {
+  "login": "Login",
+  "logout": "Logout",
+  "buy": "Buy",
+  "edit": "Edit",
+  "delete": "Delete",
+  "add": "Add",
+  "addToCart": "Add to Cart",
+  "clear": "Clear",
+  "back": "Beсk"
+  },
+  "homePage":{
+    "headlines": {
+      "seller": "Seller",
+      "brand": "Brand",
+      "alphabeticalList": "Alphabetical List",
+      "otherSellers": "Other sellers",
+      "search": "Search"
+    }
+  },
+  "editPage": {
+    "titleEdit": "Edit Product",
+    "titleAdd": "Add Product",
+    "input": {
+      "title": "Product Title",
+      "price": "Price",
+      "image": "Image Path",
+      "seller": "Seller",
+      "manufacturer": "Manufacturer"
+    }
+  },
+  "messages": {
+    "lodinPage": "To use all features, log in",
+    "pageNotFound": "Page not found"
+  }
+}

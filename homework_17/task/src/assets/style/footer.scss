@@ -1,0 +1,12 @@
+.footer {
+  padding: 10px 0;
+  background-color: $bgColorBlack;
+  // .footer__container
+  &__container {
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+  }
+}
